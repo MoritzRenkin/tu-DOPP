@@ -69,7 +69,7 @@ def get_yearly_pct_change_to_initial(df: pd.DataFrame, index_cols: list | None =
 
 
 def get_yearly_deaths(df: pd.DataFrame, custom_index: list | None = None, include_zero: bool = True) -> pd.Series:
-    """ Calculate yearly disaster deaths, assuming a continuous uniform distribution of deaths between Start_Year and End_Year of each disaster.
+    """ Calculate yearly disaster deaths, assuming a discrete uniform distribution of deaths between Start_Year and End_Year of each disaster.
 
     Parameters
     ----------
