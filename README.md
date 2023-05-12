@@ -27,6 +27,6 @@ Start Jupyter Notebook and open `jupyter_notebooks/Full_analysis.ipynb` to run t
 
 ## Folder Structure
 
-- `data/`: Contains the different input datasets used in the analysis as well as the transformed `output df_transformed.csv`
+- `data/`: Contains the different input datasets used in the analysis as well as the transformed output dataset `df_transformed.csv`
 - `jupyter_notebooks/`: Contains the Jupyter notebooks used for data processing and analysis.
 - `graphics/`: Contains external copies from the visulizations inside `jupyter_notebooks/Full_analysis.ipynb`.
