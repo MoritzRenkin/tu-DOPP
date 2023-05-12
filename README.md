@@ -34,6 +34,6 @@ Start Jupyter Notebook and open `jupyter_notebooks/Full_analysis.ipynb` to run t
 ## License
 The files in this repository, precluding the contents of the contents of the `data/` dircetory, are licensed under the GNU General Public License v3.0 (GNU GPLv3). You can find the full text of the license at https://www.gnu.org/licenses/gpl-3.0.en.html.
 
-The dataset used in this project, emdat_transformed.csv, is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. This dataset is derived from the EM-DAT dataset, which does not allow for commercial use. You can find more information about the CC BY-NC license at https://creativecommons.org/licenses/by-nc/4.0/.
+The dataset produced in this project, `data/emdat_transformed.csv`, is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. This dataset is derived from the EM-DAT dataset, which does not allow for commercial use. You can find more information about the CC BY-NC license at https://creativecommons.org/licenses/by-nc/4.0/.
 
 All other datasets or not owned by the owners of this repository and are subject to the licenses of the respective data owners.
