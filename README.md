@@ -30,3 +30,10 @@ Start Jupyter Notebook and open `jupyter_notebooks/Full_analysis.ipynb` to run t
 - `data/`: Contains the different input datasets used in the analysis as well as the transformed output dataset `df_transformed.csv`
 - `jupyter_notebooks/`: Contains the Jupyter notebooks used for data processing and analysis.
 - `graphics/`: Contains external copies from the visulizations inside `jupyter_notebooks/Full_analysis.ipynb`.
+
+## License
+The objects of this repository, precluding the contents of the contents of the `data/` dircetory are licensed under the GNU General Public License v3.0 (GNU GPLv3). You can find the full text of the license at https://www.gnu.org/licenses/gpl-3.0.en.html.
+
+The dataset used in this project, emdat_transformed.csv, is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. This dataset is derived from the EM-DAT dataset, which does not allow for commercial use. You can find more information about the CC BY-NC license at https://creativecommons.org/licenses/by-nc/4.0/.
+
+All other datasets or not owned by the owners of this repository and are subject to the licenses of the respective data owners.
