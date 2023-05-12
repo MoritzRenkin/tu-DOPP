@@ -1,4 +1,6 @@
 # Natural Disaster Trends
+[![DOI](https://zenodo.org/badge/639792491.svg)](https://zenodo.org/badge/latestdoi/639792491)
+
 This repository and the data and code it contains aims to analyze trends in natural disasters occurences and their impact, as well as their possible correlation with global warming. The analysis is primarly based on the Emergency Events Database (EM-DAT) created by the Centre for Research on the Epidemiology of Disasters (CRED).
 
 The project addresses the following questions:
