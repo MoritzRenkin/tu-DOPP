@@ -31,7 +31,7 @@ Start Jupyter Notebook and open `jupyter_notebooks/Full_analysis.ipynb` to run t
 ## Folder Structure
 
 - `data/`: Contains the different input datasets used in the analysis as well as the transformed output dataset `emdat_transformed.csv`
-- `jupyter_notebooks/`: Contains the Jupyter notebooks used for data processing and analysis.
+- `jupyter_notebooks/`: Contains the Jupyter notebook and other python files used for data processing and analysis.
 - `graphics/`: Contains external copies from the visulizations inside `jupyter_notebooks/Full_analysis.ipynb`.
 
 ## License
