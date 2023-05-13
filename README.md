@@ -10,6 +10,7 @@ The project addresses the following questions:
 
 ## Setup
 The project is embedded in a jupyter notebook with Python 3.8+. Before running it, install the required packages in ´requirements.txt´ first (preferably in a virtual environment). 
+
 Using pip on Windows:
 ```
 py -3 -m pip install -r requirements.txt
